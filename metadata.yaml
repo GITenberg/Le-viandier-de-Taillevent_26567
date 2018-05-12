@@ -16,6 +16,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guillaume_Tirel
     - http://en.wikipedia.org/wiki/Guillaume_Tirel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26567#Le-viandier-de-Taillevent
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Cookery
